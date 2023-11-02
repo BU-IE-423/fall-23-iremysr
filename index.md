@@ -8,7 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Python Example HTML in Rstudio](files/python_example_in_Jupyter_Notebook.html): This is an html file.
 
 
-[Project Part 1](files/data_prep_and_plots_final(1).html): This is our HTML file for the projects part 1.
+[Project Part 1 HTML](files/ProjectPart1.html): This is our HTML file for the project part 1.
+
+
+[Project Part 1 py](files/ProjectPart1.ipynb): This is our python file for the project part 1.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
