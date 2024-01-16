@@ -19,6 +19,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Project Part 2 py](files/ProjectPart2.ipynb): This is our python file for the project part 2.
 
+
+[Project Part 3 PDF](files/ProjectPart3.pdf): This is our report for the project part 3.
+
+
+[Project Part 3 py](files/ProjectPart3.ipynb): This is our python file for the project part 2.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
